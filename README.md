@@ -1,6 +1,9 @@
 # Amplitude Modulation of Audio Signals
 This program performs an amplitude modulation on a signal to acheive AM radio frequencies for transmission. The demonstration walks through the process and theory and then performs an example on an audio snippet of Morgan Freedman.
 
+![image](https://github.com/kylelevy/AmplitudeModulator/assets/37563214/0854c65c-afb3-49e7-ae58-eef655c440db)
+
+
 ## Theory
 Let the carrier signal be a sinusoid with amplitude $A$ and carrier frequency $f_c$:
 $$c(t) = A \sin(2 \pi f_c t)$$
